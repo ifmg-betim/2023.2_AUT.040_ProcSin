@@ -1,2 +1,4 @@
-# 2023.2_AUT.040_ProcSin
-Atividades da disciplina Processamento de Sinais do IFMG Campus Betim
+# 2023.2 - IFMG Betim - Processamento de Sinais (AUT.040)
+
+Material da disciplina Processamento de Sinais (AUT.040) do curso de Engenharia de Controle e Automação do IFMG Campus Betim.
+
